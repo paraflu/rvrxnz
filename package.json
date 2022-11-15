@@ -1,0 +1,21 @@
+{
+  "name": "j1wncd--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.2.45",
+    "@progress/kendo-vue-grid": "3.7.3",
+    "@progress/kendo-data-query": "1.6.0",
+    "@progress/kendo-licensing": "1.2.2",
+    "@progress/kendo-vue-animation": "3.7.3",
+    "@progress/kendo-drawing": "1.17.2",
+    "@progress/kendo-vue-buttons": "3.7.3",
+    "@progress/kendo-vue-intl": "3.7.3",
+    "@progress/kendo-vue-dateinputs": "3.7.3",
+    "@progress/kendo-vue-dropdowns": "3.7.3",
+    "@progress/kendo-vue-inputs": "3.7.3",
+    "@progress/kendo-vue-data-tools": "3.7.3",
+    "@progress/kendo-vue-indicators": "3.7.3",
+    "@progress/kendo-vue-popup": "3.7.3"
+  }
+}
